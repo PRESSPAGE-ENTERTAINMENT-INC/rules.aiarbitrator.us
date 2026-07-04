@@ -263,3 +263,101 @@ Attorney contributions are welcome through:
 - Rulebook change requests (CLE participants)
 
 All contributions must follow the deterministic rulebook schema.
+
+## **👩‍⚖️ Attorney Contribution Instructions**
+
+Licensed U.S. attorneys may contribute updates to jurisdictional rulebooks in this repository.  
+All contributions must follow the steps below to ensure compliance with federal law, state statutes, and the deterministic requirements of the AI Arbitrator.
+
+### **1. Create a Professional Attorney Account**
+Before contributing, attorneys must create a professional GitHub account that clearly identifies:
+
+- Full legal name  
+- U.S. jurisdiction(s) of practice  
+- Active bar number(s)  
+- A short profile document describing practice areas and states/counties for which the attorney is qualified to submit rulebook changes  
+
+This profile establishes contributor identity and ensures rulebook updates originate from verified legal professionals.
+
+---
+
+### **2. Fork the Repository**
+Navigate to:
+
+**`https://github.com/aiarbitrator/rules.aiarbitrator.us.git`**
+
+Select **Fork** to create your own working copy of the rulebook repository under your professional GitHub account.
+
+---
+
+### **3. Clone the Fork to Your Local Workstation**
+Use Git to clone your fork:
+
+```
+git clone https://github.com/<your-username>/rules.aiarbitrator.us.git
+```
+
+This creates a local working directory where you can edit rulebooks.
+
+---
+
+### **4. Make Only Jurisdiction‑Qualified Changes**
+You may only modify rulebooks for jurisdictions where you are licensed or otherwise professionally qualified.
+
+Examples:
+
+- Florida‑licensed attorneys may update `states/FL/state.json` and its county rulebooks  
+- New York‑licensed attorneys may update `states/NY/state.json` and county rulebooks  
+- FAA‑level changes require federal arbitration expertise  
+
+All changes must comply with:
+
+- **FAA §7**  
+- **RUAA/UAA** (where applicable)  
+- **State small‑claims statutes**  
+- **County procedural rules**  
+- **Forum written‑hearing model**  
+
+---
+
+### **5. Commit Changes with Detailed Descriptions**
+Each change must be committed with a **clear, descriptive message** explaining:
+
+- What rule was changed  
+- Why the change is legally required  
+- Citation to relevant federal or state authority  
+- Your name and bar number  
+
+**Best practice:**  
+If making multiple changes, commit **one change per commit** to avoid polluting commit descriptions and to preserve a clean audit trail.
+
+Example commit message:
+
+```
+Update FL small-claims dollar limit to $8,000.
+Authority: Fla. Small Claims Rule 7.010.
+Contributor: Jane Doe, Florida Bar #123456.
+```
+
+---
+
+### **6. Submit a Pull Request**
+Once all changes are committed to your fork:
+
+1. Push your commits to GitHub  
+2. Open a **Pull Request** from your fork to the master branch of the main repository  
+3. Include a summary of all changes and legal citations  
+
+---
+
+### **7. Clerk Review and Merge**
+A PPE clerk will:
+
+- Review your submitted changes  
+- Verify your attorney profile  
+- Confirm legal accuracy  
+- Ensure deterministic compatibility with the AI Arbitrator  
+- Merge your changes into the master branch  
+
+Clerks **cannot edit** rulebooks; they only review and merge attorney‑submitted updates.
+
