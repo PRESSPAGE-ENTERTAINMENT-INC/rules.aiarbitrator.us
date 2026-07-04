@@ -353,11 +353,20 @@ Once all changes are committed to your fork:
 ### **7. Clerk Review and Merge**
 A PPE clerk will:
 
-- Review your submitted changes  
+- Review your submitted changes for completeness  
+(all required fields present, JSON valid, citations included)
 - Verify your attorney profile  
-- Confirm legal accuracy  
+(identity, bar number, jurisdiction eligibility)
+- Verify procedural compliance  
+(change request follows repository rules, commit structure, and submission format)
 - Ensure deterministic compatibility with the AI Arbitrator  
+(rulebook structure, schema, and loading order remain intact)
 - Merge your changes into the master branch  
+(clerks do not edit or interpret legal content)
 
 Clerks **cannot edit** rulebooks; they only review and merge attorney‑submitted updates.
 
+- They do not evaluate whether your legal change is “correct”
+- They do not interpret statutes, case law, or procedural rules
+- They do not approve or reject changes based on legal reasoning
+- They do not modify rulebooks themselves
