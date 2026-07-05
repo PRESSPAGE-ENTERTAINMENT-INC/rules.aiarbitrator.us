@@ -1,0 +1,191 @@
+{
+    "metadata": {
+        "rulebook_version": "2026.03"
+    },
+    "name": "FAA_SUBPOENA_RULES",
+    "rules": [
+        {
+            "id": "FAA-SUB-001",
+            "name": "Subpoena Authority",
+            "text": "The arbitrator may issue subpoenas for witness testimony and document production under FAA §7.",
+            "authority": "FAA §7",
+            "jurisdiction": "faa",
+            "type": [
+                "procedural",
+                "subpoena"
+            ],
+            "scope": "subpoena",
+            "filter": true,
+            "burden_of_proof": [
+                "prima_facie"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-SUB-001-E1",
+                    "name": "Arbitrator Issuance",
+                    "text": "Only the arbitrator may issue subpoenas under FAA §7."
+                },
+                {
+                    "id": "FAA-SUB-001-E2",
+                    "name": "Written Testimony",
+                    "text": "The arbitrator may require written testimony or documents prior to the close of the written hearing."
+                }
+            ],
+            "exceptions": [
+                {
+                    "id": "FAA-SUB-001-EX1",
+                    "name": "beyond_reasonable_doubt",
+                    "text": "Criminal burdens of proof do not apply to FAA subpoenas."
+                }
+            ]
+        },
+        {
+            "id": "FAA-SUB-002",
+            "name": "Prima Facie Burden",
+            "text": "Subpoenas require a prima facie showing of relevance and materiality.",
+            "authority": "FAA §7",
+            "jurisdiction": "faa",
+            "type": [
+                "procedural",
+                "subpoena"
+            ],
+            "scope": "subpoena",
+            "filter": true,
+            "burden_of_proof": [
+                "prima_facie"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-SUB-002-E1",
+                    "name": "Minimal Showing",
+                    "text": "The requesting party must show minimal evidence that the subpoenaed material is relevant to the dispute."
+                },
+                {
+                    "id": "FAA-SUB-002-E2",
+                    "name": "Materiality",
+                    "text": "The subpoenaed material must have a logical connection to a claim or defense."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-SUB-003",
+            "name": "NYBAR-Style Subpoena Structure",
+            "text": "Subpoenas must follow the structural conventions used in New York practice, adapted for FAA arbitration.",
+            "authority": "NYBAR_PRACTICE_GUIDANCE",
+            "jurisdiction": "faa",
+            "type": [
+                "procedural",
+                "definition"
+            ],
+            "scope": "subpoena",
+            "filter": true,
+            "burden_of_proof": [
+                "prima_facie"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-SUB-003-E1",
+                    "name": "Caption",
+                    "text": "Subpoenas must include the forum name, case number, and party names."
+                },
+                {
+                    "id": "FAA-SUB-003-E2",
+                    "name": "Description of Materials",
+                    "text": "Requested documents must be described with reasonable particularity."
+                },
+                {
+                    "id": "FAA-SUB-003-E3",
+                    "name": "Return Instructions",
+                    "text": "Subpoenas must specify the method and deadline for returning documents or testimony."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-SUB-004",
+            "name": "NYBAR-Style Service Requirements",
+            "text": "Subpoenas must be served in accordance with NYBAR-style service conventions adapted for FAA arbitration.",
+            "authority": "NYBAR_PRACTICE_GUIDANCE",
+            "jurisdiction": "faa",
+            "type": [
+                "procedural",
+                "subpoena"
+            ],
+            "scope": "subpoena",
+            "filter": true,
+            "burden_of_proof": [
+                "prima_facie"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-SUB-004-E1",
+                    "name": "Personal Service Preferred",
+                    "text": "Subpoenas should be personally served on the witness or custodian of records when feasible."
+                },
+                {
+                    "id": "FAA-SUB-004-E2",
+                    "name": "Alternative Service",
+                    "text": "If personal service is impracticable, alternative service methods may be used consistent with jurisdictional rules."
+                },
+                {
+                    "id": "FAA-SUB-004-E3",
+                    "name": "Proof of Service",
+                    "text": "The serving party must provide a written declaration of service."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-SUB-005",
+            "name": "NYBAR-Style Compliance Rules",
+            "text": "Witnesses must comply with subpoenas unless they demonstrate undue burden or privilege.",
+            "authority": "NYBAR_PRACTICE_GUIDANCE",
+            "jurisdiction": "faa",
+            "type": [
+                "procedural",
+                "subpoena"
+            ],
+            "scope": "subpoena",
+            "filter": true,
+            "burden_of_proof": [
+                "preponderance"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-SUB-005-E1",
+                    "name": "Undue Burden",
+                    "text": "A witness may object if compliance imposes an undue burden."
+                },
+                {
+                    "id": "FAA-SUB-005-E2",
+                    "name": "Privilege",
+                    "text": "Privileged materials are exempt from production."
+                },
+                {
+                    "id": "FAA-SUB-005-E3",
+                    "name": "Motion to Quash",
+                    "text": "Witnesses may request that the arbitrator quash or modify the subpoena."
+                }
+            ],
+            "exceptions": []
+        }
+    ],
+    "definitions": [
+        {
+            "id": "FAA-SUB-DEF-001",
+            "term": "Subpoena",
+            "text": "A written order issued by the arbitrator requiring testimony or document production."
+        },
+        {
+            "id": "FAA-SUB-DEF-002",
+            "term": "Custodian of Records",
+            "text": "The individual responsible for maintaining the requested documents."
+        },
+        {
+            "id": "FAA-SUB-DEF-003",
+            "term": "Undue Burden",
+            "text": "A level of hardship that justifies limiting or quashing a subpoena."
+        }
+    ]
+}
