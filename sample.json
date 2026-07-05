@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "rulebook_version": "2026.03"
+    },
+    "name": "JURISDICTIONAL_NAME",
+    "rules": [
+        {
+            "id": "UNIQUE_ID",
+            "name": "OVERALL_NAME",
+            "text": "DESCRIPTION",
+            "authority": "CODE_RULE_STATUTE",
+            "jurisdiction": "faa|state|county|forum",
+            "type": [
+                "procedural",
+                "substantive",
+                "award-confirmation",
+                "award-vacatur",
+                "award-modification",
+                "procedural-deadline",
+                "definition"
+            ],
+            "scope": "global|faa|state|county|forum|case_type|evidence|subpoena",
+            "filter": true,
+            "burden_of_proof": [
+                "preponderance",
+                "clear_and_convincing",
+                "substantial_evidence",
+                "prima_facie",
+                "probable_cause",
+                "beyond_reasonable_doubt"
+            ],
+            "elements": [
+                {
+                    "id": "UNIQUE_ID",
+                    "name": "Trade or Commerce",
+                    "text": "The conduct occurred in the context of advertising, offering, providing, or distributing goods or services."
+                }
+            ],
+            "exceptions": [
+                {
+                    "id": "burden_of_proof",
+                    "name": "beyond_reasonable_doubt",
+                    "text": "Relates to criminal litigation and is not permissible under FAA or civil arbitration."
+                }
+            ]
+        }
+    ],
+    "definitions": [
+        {
+            "id": "UNIQUE_ID",
+            "term": "TERM",
+            "text": "DEFINITION"
+        }
+    ]
+}
