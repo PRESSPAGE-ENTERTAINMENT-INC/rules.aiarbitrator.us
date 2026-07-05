@@ -1,0 +1,224 @@
+{
+    "metadata": {
+        "rulebook_version": "2026.03"
+    },
+    "name": "FAA_RULES",
+    "rules": [
+        {
+            "id": "FAA-001",
+            "name": "Validity of Arbitration Agreements",
+            "text": "Arbitration agreements are valid, irrevocable, and enforceable under the Federal Arbitration Act.",
+            "authority": "FAA §2",
+            "jurisdiction": "faa",
+            "type": [
+                "substantive",
+                "definition"
+            ],
+            "scope": "faa",
+            "filter": true,
+            "burden_of_proof": [
+                "preponderance"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-001-E1",
+                    "name": "Binding Agreement",
+                    "text": "A written arbitration agreement is enforceable unless legal grounds exist for revocation of any contract."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-002",
+            "name": "Interstate Commerce Requirement",
+            "text": "The FAA applies when the underlying transaction involves interstate commerce.",
+            "authority": "FAA §2",
+            "jurisdiction": "faa",
+            "type": [
+                "substantive",
+                "definition"
+            ],
+            "scope": "faa",
+            "filter": true,
+            "burden_of_proof": [
+                "preponderance"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-002-E1",
+                    "name": "Commerce Nexus",
+                    "text": "The dispute must involve goods, services, or conduct affecting interstate commerce."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-003",
+            "name": "Subpoena Authority",
+            "text": "The arbitrator may issue subpoenas for witness testimony and document production.",
+            "authority": "FAA §7",
+            "jurisdiction": "faa",
+            "type": [
+                "procedural",
+                "subpoena"
+            ],
+            "scope": "subpoena",
+            "filter": true,
+            "burden_of_proof": [
+                "prima_facie"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-003-E1",
+                    "name": "Prima Facie Relevance",
+                    "text": "The requesting party must show minimal evidence that the subpoenaed material is relevant and material."
+                },
+                {
+                    "id": "FAA-003-E2",
+                    "name": "Written Testimony",
+                    "text": "The arbitrator may require written testimony or documents prior to the close of the written hearing."
+                }
+            ],
+            "exceptions": [
+                {
+                    "id": "FAA-003-EX1",
+                    "name": "beyond_reasonable_doubt",
+                    "text": "Criminal burdens of proof do not apply to FAA subpoenas."
+                }
+            ]
+        },
+        {
+            "id": "FAA-004",
+            "name": "Award Confirmation",
+            "text": "A party may apply to a court for confirmation of the arbitration award.",
+            "authority": "FAA §9",
+            "jurisdiction": "faa",
+            "type": [
+                "award-confirmation",
+                "procedural"
+            ],
+            "scope": "faa",
+            "filter": true,
+            "burden_of_proof": [
+                "preponderance"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-004-E1",
+                    "name": "Mandatory Confirmation",
+                    "text": "The court must confirm the award unless grounds exist under FAA §10 or §11."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-005",
+            "name": "Award Vacatur",
+            "text": "An arbitration award may be vacated only under the limited grounds specified in FAA §10.",
+            "authority": "FAA §10",
+            "jurisdiction": "faa",
+            "type": [
+                "award-vacatur",
+                "procedural"
+            ],
+            "scope": "faa",
+            "filter": true,
+            "burden_of_proof": [
+                "clear_and_convincing"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-005-E1",
+                    "name": "Corruption or Fraud",
+                    "text": "The award may be vacated if procured by corruption, fraud, or undue means."
+                },
+                {
+                    "id": "FAA-005-E2",
+                    "name": "Misconduct",
+                    "text": "Vacatur may occur if the arbitrator is guilty of misconduct or refuses to hear material evidence."
+                },
+                {
+                    "id": "FAA-005-E3",
+                    "name": "Exceeding Powers",
+                    "text": "Vacatur may occur if the arbitrator exceeds their powers."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-006",
+            "name": "Award Modification",
+            "text": "A court may modify or correct an arbitration award under FAA §11.",
+            "authority": "FAA §11",
+            "jurisdiction": "faa",
+            "type": [
+                "award-modification",
+                "procedural"
+            ],
+            "scope": "faa",
+            "filter": true,
+            "burden_of_proof": [
+                "preponderance"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-006-E1",
+                    "name": "Evident Material Miscalculation",
+                    "text": "Awards may be corrected for evident material miscalculations or mistakes."
+                },
+                {
+                    "id": "FAA-006-E2",
+                    "name": "Form Corrections",
+                    "text": "Awards may be corrected for imperfections in form not affecting the merits."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FAA-007",
+            "name": "FAA Preemption",
+            "text": "The FAA preempts state laws that conflict with its enforcement of arbitration agreements.",
+            "authority": "FAA §2 (Supremacy via case law)",
+            "jurisdiction": "faa",
+            "type": [
+                "substantive",
+                "definition"
+            ],
+            "scope": "faa",
+            "filter": true,
+            "burden_of_proof": [
+                "preponderance"
+            ],
+            "elements": [
+                {
+                    "id": "FAA-007-E1",
+                    "name": "Conflict Preemption",
+                    "text": "State rules that undermine arbitration agreements are preempted."
+                }
+            ],
+            "exceptions": []
+        }
+    ],
+    "definitions": [
+        {
+            "id": "FAA-DEF-001",
+            "term": "Arbitration Agreement",
+            "text": "A written agreement to submit disputes to arbitration."
+        },
+        {
+            "id": "FAA-DEF-002",
+            "term": "Prima Facie",
+            "text": "A minimal showing of relevance required for subpoena issuance."
+        },
+        {
+            "id": "FAA-DEF-003",
+            "term": "Vacatur",
+            "text": "Judicial cancellation of an arbitration award under FAA §10."
+        },
+        {
+            "id": "FAA-DEF-004",
+            "term": "Modification",
+            "text": "Judicial correction of an arbitration award under FAA §11."
+        }
+    ]
+}
