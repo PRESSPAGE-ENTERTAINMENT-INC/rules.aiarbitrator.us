@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "rulebook_version": "2026.03"
+    },
+    "name": "FLORIDA_STATE_RULES",
+    "rules": [
+        {
+            "id": "FL-SMALL-CLAIMS-JURISDICTION",
+            "jurisdiction": "FL",
+            "name": "Florida Small Claims Jurisdiction",
+            "text": "Florida county courts have jurisdiction over small claims matters under Chapter 34, including claims up to the statutory limit.",
+            "elements": [
+                {
+                    "id": "FL-SCJ-01",
+                    "name": "Dollar Limit",
+                    "text": "The claim amount must not exceed the Florida small-claims jurisdictional limit."
+                },
+                {
+                    "id": "FL-SCJ-02",
+                    "name": "Proper Venue",
+                    "text": "Venue must be proper under Rule 7.050 and Chapter 34."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SERVICE-48-031",
+            "jurisdiction": "FL",
+            "name": "Florida Service of Process Requirements (F.S. §48.031)",
+            "text": "Florida Statutes §48.031 governs service of process for individuals, corporations, witnesses, and substituted service. The arbitrator must apply these requirements when determining whether service of the arbitration packet or subpoena complies with Florida law.",
+            "elements": [
+                {
+                    "id": "FL-SOP-01",
+                    "name": "Personal Service",
+                    "text": "Service is valid when a copy of the process is delivered directly to the person to be served together with the initial pleading."
+                },
+                {
+                    "id": "FL-SOP-02",
+                    "name": "Service at Usual Place of Abode",
+                    "text": "Service may be made by leaving copies at the individual's usual place of abode with a resident aged 15 years or older who is informed of the contents."
+                },
+                {
+                    "id": "FL-SOP-03",
+                    "name": "Employer Access Requirement",
+                    "text": "An employer must allow an authorized process server access to a private area to serve an employee; failure to comply may result in a statutory fine."
+                },
+                {
+                    "id": "FL-SOP-04",
+                    "name": "Substituted Service on Spouse",
+                    "text": "Substituted service on a spouse is permitted when the spouses reside together, the spouse requests service or is a party, and the action is not adversarial between them."
+                },
+                {
+                    "id": "FL-SOP-05",
+                    "name": "Substituted Service on Sole Proprietor",
+                    "text": "Substituted service may be made at a sole proprietor's business by serving the person in charge after two prior attempts to serve the owner at the business."
+                },
+                {
+                    "id": "FL-SOP-06",
+                    "name": "Witness Subpoena Service",
+                    "text": "Witness subpoenas in civil actions must be served in the same manner as personal service; certain criminal and traffic subpoenas may be served by U.S. mail."
+                },
+                {
+                    "id": "FL-SOP-07",
+                    "name": "Posting of Criminal Witness Subpoenas",
+                    "text": "Criminal witness subpoenas may be posted at the residence after failed attempts at personal service, subject to statutory timing requirements."
+                },
+                {
+                    "id": "FL-SOP-08",
+                    "name": "Service on Law Enforcement or Government Employees",
+                    "text": "Service may be made by delivery to a designated supervisory employee at the witness’s place of employment, subject to statutory limitations."
+                },
+                {
+                    "id": "FL-SOP-09",
+                    "name": "Process Server Identification",
+                    "text": "The process server must mark the first page of the served process with the date, time, initials or signature, and identification number, and file a return of service."
+                },
+                {
+                    "id": "FL-SOP-10",
+                    "name": "Service at Private Mailbox or Virtual Office",
+                    "text": "Substituted service may be made by leaving a copy with the person in charge of a private mailbox, virtual office, or executive suite if the server determines the person maintains that location."
+                },
+                {
+                    "id": "FL-SOP-11",
+                    "name": "Gated Community Access",
+                    "text": "Gated residential communities must grant unannounced entry to process servers attempting to serve a resident or known occupant."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-JUDGMENT-ENTRY",
+            "jurisdiction": "FL",
+            "name": "Judgment Entry Requirements",
+            "text": "Arbitration awards must be filed in Florida county court for judgment entry under Chapter 55.",
+            "elements": [
+                {
+                    "id": "FL-JE-01",
+                    "name": "Court Filing Required",
+                    "text": "The party seeking judgment must file the arbitration award with the county court and pay the statutory fee."
+                },
+                {
+                    "id": "FL-JE-02",
+                    "name": "Interest",
+                    "text": "Judgment interest is governed by §55.03."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-CASE-TYPES",
+            "jurisdiction": "FL",
+            "name": "Permitted Florida Small Claims Case Types",
+            "text": "Florida small claims courts permit specific categories of civil disputes under Chapter 34 and the Florida Small Claims Rules.",
+            "elements": [
+                {
+                    "id": "FL-CT-01",
+                    "name": "Contract Disputes",
+                    "text": "Claims involving breach of contract, money owed, or failure to perform."
+                },
+                {
+                    "id": "FL-CT-02",
+                    "name": "Consumer Protection",
+                    "text": "Claims under FDUTPA (§501.204, §501.211) involving unfair or deceptive acts."
+                },
+                {
+                    "id": "FL-CT-03",
+                    "name": "Property Damage",
+                    "text": "Claims for damage to personal or real property within the jurisdictional limit."
+                },
+                {
+                    "id": "FL-CT-04",
+                    "name": "Landlord/Tenant (Non-Eviction)",
+                    "text": "Security deposit disputes and damages under §83.49, §83.51, and §83.56."
+                },
+                {
+                    "id": "FL-CT-05",
+                    "name": "Gig-Worker Platform Disputes",
+                    "text": "Claims involving improper deductions, account actions, withheld earnings, or platform conduct."
+                },
+                {
+                    "id": "FL-CT-06",
+                    "name": "Negligence",
+                    "text": "Claims for negligence resulting in financial loss or property damage."
+                }
+            ],
+            "exceptions": [
+                {
+                    "id": "FL-CT-EX-01",
+                    "name": "Evictions",
+                    "text": "Eviction actions under Chapter 83 Part II must be filed in county court and cannot be arbitrated."
+                },
+                {
+                    "id": "FL-CT-EX-02",
+                    "name": "Title to Real Property",
+                    "text": "Actions determining title to real property are excluded from small claims jurisdiction."
+                },
+                {
+                    "id": "FL-CT-EX-03",
+                    "name": "Family Law",
+                    "text": "Family law matters are excluded from small claims jurisdiction."
+                },
+                {
+                    "id": "FL-CT-EX-04",
+                    "name": "Claims Exceeding Jurisdictional Limit",
+                    "text": "Claims exceeding the Florida small claims dollar limit cannot be arbitrated."
+                }
+            ]
+        }
+    ],
+    "definitions": [
+        {
+            "id": "DEF-TRADE-COMMERCE",
+            "term": "Trade or Commerce",
+            "text": "Conduct occurring in the context of advertising, offering, providing, or distributing goods or services."
+        },
+        {
+            "id": "DEF-WRITTEN-HEARING",
+            "term": "Written Hearing",
+            "text": "A hearing conducted entirely through written submissions, testimony, and evidence."
+        },
+        {
+            "id": "DEF-PREHEARING-SUBPOENA",
+            "term": "Pre-Hearing Discovery Subpoena",
+            "text": "A subpoena issued under FAA §7 requiring written testimony or documents prior to the close of the written evidentiary hearing."
+        }
+    ]
+}

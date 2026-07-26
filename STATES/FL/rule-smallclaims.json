@@ -1,0 +1,1364 @@
+{
+    "metadata": {
+        "rulebook_version": "2026.07",
+        "jurisdiction": "FL-SC",
+        "source": "Florida Small Claims Rules (Effective July 1, 2026)",
+        "citations": [
+            {
+                "effective_date": "1-1-68",
+                "citation": [
+                    "203 So. 2d 616",
+                    "205 So. 2d 297"
+                ],
+                "notes": "Original adoption."
+            },
+            {
+                "effective_date": "2-1-73",
+                "citation": "270 So. 2d 729",
+                "notes": "Complete revision."
+            },
+            {
+                "effective_date": "1-1-79",
+                "citation": "366 So. 2d 398",
+                "notes": "Amended 7.010(b), 7.020, 7.060, 7.070, 7.110(e), 7.150, 7.170(a), 7.210(c)."
+            },
+            {
+                "effective_date": "1-1-79",
+                "citation": "372 So. 2d 449",
+                "notes": "Amended 7.050(a)(2); deleted 7.030."
+            },
+            {
+                "effective_date": "1-1-81",
+                "citation": "385 So. 2d 1367",
+                "notes": "Amended 7.060, 7.170."
+            },
+            {
+                "effective_date": "1-1-85",
+                "citation": "461 So. 2d 1344",
+                "notes": "Amended 7.010, 7.070, 7.090, 7.110, 7.130, 7.140, 7.150, 7.170, 7.180."
+            },
+            {
+                "effective_date": "1-1-89",
+                "citation": "537 So. 2d 81",
+                "notes": "Amended 7.050(a)(2), (b), 7.060, 7.090(b), (c), (e), 7.100(e), 7.140(f), 7.210(a); deleted 7.320, 7.321; added 7.050(e), 7.221, 7.322, 7.323, 7.340, 7.342, 7.343, 7.344."
+            },
+            {
+                "effective_date": "1-1-93",
+                "citation": "601 So. 2d 1201",
+                "notes": "Four-year-cycle revision. Substantively amended 7.070, 7.340; added 7.345."
+            },
+            {
+                "effective_date": "1-1-97",
+                "citation": "682 So. 2d 1075",
+                "notes": "Four-year-cycle revision. Amended 7.010(b), 7.020(b), 7.070, 7.110(e), 7.140(e), 7.221; amended forms 7.340, 7.343, 7.345."
+            },
+            {
+                "effective_date": "1-1-01",
+                "citation": "785 So. 2d 401",
+                "notes": ""
+            },
+            {
+                "effective_date": "1-1-04",
+                "citation": "849 So. 2d 293",
+                "notes": ""
+            },
+            {
+                "effective_date": "1-1-06",
+                "citation": "931 So. 2d 78",
+                "notes": "Four-year cycle revision. Amended 7.070, 7.135, 7.160, 7.221, 7.340, 7.345; added 7.080(f), 7.090(f)-(g)."
+            },
+            {
+                "effective_date": "4-17-08",
+                "citation": "959 So. 2d 1169",
+                "notes": "Three-year-cycle revision. Added form 7.347."
+            },
+            {
+                "effective_date": "10-1-08",
+                "citation": "980 So. 2d 1054",
+                "notes": "Added committee note to form 7.347."
+            },
+            {
+                "effective_date": "1-1-11",
+                "citation": "985 So. 2d 1033",
+                "notes": "Amended 7.090(f) and form 7.322."
+            },
+            {
+                "effective_date": "7-1-11",
+                "citation": "44 So. 3d 573",
+                "notes": ""
+            },
+            {
+                "effective_date": "10-1-11",
+                "citation": "64 So. 3d 1196",
+                "notes": ""
+            },
+            {
+                "effective_date": "12-15-11",
+                "citation": "80 So. 3d 317",
+                "notes": ""
+            },
+            {
+                "effective_date": "9-1-12",
+                "citation": "78 So. 3d 1303",
+                "notes": ""
+            },
+            {
+                "effective_date": "4-1-13",
+                "citation": "102 So. 3d 505",
+                "notes": ""
+            },
+            {
+                "effective_date": "1-1-14",
+                "citation": "102 So. 3d 451",
+                "notes": ""
+            },
+            {
+                "effective_date": "1-1-17",
+                "citation": "123 So. 3d 41",
+                "notes": "Three-year cycle revision. Amended 7.050, 7.335, 7.342, 7.343."
+            },
+            {
+                "effective_date": "1-1-20",
+                "citation": "200 So. 3d 746",
+                "notes": "Amended 7.090(b)."
+            },
+            {
+                "effective_date": "1-1-20",
+                "citation": "283 So. 3d 802",
+                "notes": "Amended 7.140, and forms 7.340, 7.343."
+            },
+            {
+                "effective_date": "4-8-21",
+                "citation": "285 So. 3d 896",
+                "notes": "Three-year-cycle revision. Amended 7.020, 7.040, 7.050, 7.060, 7.080, 7.090, 7.100, 7.130, 7.150, 7.160, 7.175, 7.180, 7.190, 7.200, 7.221, 7.230, 7.322, 7.323, 7.330, 7.331, 7.333, 7.334, 7.335, 7.342, 7.343, 7.345; adopted 7.315, 7.316, 7.337, 7.351, 7.352, 7.353."
+            },
+            {
+                "effective_date": "10-28-21",
+                "citation": "318 So. 3d 1240",
+                "notes": "Amended 7.221 and 7.343."
+            },
+            {
+                "effective_date": "10-1-22",
+                "citation": "344 So. 3d 940",
+                "notes": "Amended 7.050, 7.080, 7.315, 7.322, 7.323."
+            },
+            {
+                "effective_date": "10-24-22",
+                "citation": "346 So. 3d 1105",
+                "notes": "Amended 7.090, 7.100, 7.140, 7.150."
+            },
+            {
+                "effective_date": "1-1-24",
+                "citation": "372 So. 3d 586",
+                "notes": "Style changes to conform with updated style guide."
+            },
+            {
+                "effective_date": "1-1-26",
+                "citation": "421 So. 3d 420",
+                "notes": "Amended Rules 7.110 and Form 7.310."
+            },
+            {
+                "effective_date": "7-1-2026",
+                "citation": "SC2025-1254",
+                "notes": "Amended Rules 7.010, 7.020, 7.070."
+            }
+        ]
+    },
+    "name": "Florida Small Claims Rules",
+    "rules": [
+        {
+            "id": "FL-SC-7010",
+            "name": "Title and Scope",
+            "authority": "Florida Small Claims Rule 7.010",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.010 defines the title and scope of the Florida Small Claims Rules, including their purpose and applicability.",
+            "elements": [
+                {
+                    "id": "FL-SC-7010A",
+                    "name": "Title",
+                    "text": "These rules are cited as Florida Small Claims Rules and may be abbreviated 'Fla. Sm. Cl. R.' These rules must be construed to implement the simple, speedy, and inexpensive trial of actions at law in county courts."
+                },
+                {
+                    "id": "FL-SC-7010B",
+                    "name": "Scope",
+                    "text": "These rules are applicable to all actions of a civil nature in the county courts which contain a demand for money or property, the value of which does not exceed $8,000 exclusive of costs, interest, and attorneys’ fees. If there is a difference between the time period prescribed by these rules and by section 51.011, Florida Statutes, the statutory provision governs."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1978,
+                    "text": "The addition to subdivision (b) is designed to eliminate confusion caused by denomination of section 51.011, Florida Statutes, as 'Summary Procedure.'"
+                },
+                {
+                    "year": 2013,
+                    "text": "Subdivision (b) is amended to clarify that the Florida Small Claims Rules apply to a claim for money or property even when expressed as, or coupled with, a claim for equitable relief. See State Farm Mutual Automobile Insurance Company v. Green, 579 So. 2d 402 (Fla. 5th DCA 1991)."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7020",
+            "name": "Applicability of Rules of Civil Procedure",
+            "authority": "Rule 7.020",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.020 identifies which Florida Rules of Civil Procedure apply in small claims actions and establishes when discovery and additional civil rules may be used.",
+            "elements": [
+                {
+                    "id": "FL-SC-7020A",
+                    "name": "Generally",
+                    "text": "Florida Rules of Civil Procedure 1.090(a), (b), and (c); 1.190(a)-(e); 1.210(b); 1.260; 1.410; and 1.560 are applicable in all actions covered by these rules."
+                },
+                {
+                    "id": "FL-SC-7020B",
+                    "name": "Discovery",
+                    "text": "Any party represented by an attorney is subject to discovery pursuant to Florida Rules of Civil Procedure 1.280–1.380 directed at said party, without order of court. If a party not represented by an attorney directs discovery to a party represented by an attorney, the represented party may also use discovery pursuant to the above-mentioned rules without leave of court. When a party is not represented by an attorney and has not initiated discovery pursuant to Florida Rules of Civil Procedure 1.280–1.380, the opposing party is not entitled to initiate discovery without leave of court. The court may prescribe the time for discovery procedures."
+                },
+                {
+                    "id": "FL-SC-7020C",
+                    "name": "Additional Rules",
+                    "text": "In any particular action, the court may order that the action proceed under one or more additional Florida Rules of Civil Procedure on application of any party, the stipulation of all parties, or on the court’s own motion."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1972,
+                    "text": "Subdivision (a) is amended by giving the court authority to apply additional rules of civil procedure in any particular case on the application of a party, stipulation of all parties, or order on the court’s own motion."
+                },
+                {
+                    "year": 1978,
+                    "text": "These amendments help prevent overreaching and the ability of one party to obtain judgment without giving the court the full opportunity to consider the merits of the case. When attorneys are involved, the rule preserves the ability of the parties to fully develop their cases."
+                },
+                {
+                    "year": 1996,
+                    "text": "The addition of Fla. R. Civ. P. 1.380 enables the court to issue and impose sanctions for failure to comply with discovery requests."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7040",
+            "name": "Clerical and Administrative Duties of Clerk",
+            "authority": "Rule 7.040",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.040 establishes the clerk’s responsibilities for maintaining the trial calendar and keeping accurate records of all small claims actions.",
+            "elements": [
+                {
+                    "id": "FL-SC-7040A",
+                    "name": "Trial Calendar",
+                    "text": "The clerk of the circuit court or the clerk of the county court, where provided, shall maintain a trial calendar. Placing any action on the calendar with the date and time of trial constitutes notice to all concerned of the order in which the action may be called."
+                },
+                {
+                    "id": "FL-SC-7040B",
+                    "name": "Records",
+                    "text": "The clerk shall maintain records in which accurate entries of all actions brought before the court and notations of the proceedings shall comply with Florida Rule of General Practice and Judicial Administration 2.425 and shall include:",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7040B1",
+                            "text": "The date of filing."
+                        },
+                        {
+                            "id": "FL-SC-7040B2",
+                            "text": "The date of issuance, service, and return of process."
+                        },
+                        {
+                            "id": "FL-SC-7040B3",
+                            "text": "The appearance of such parties as may appear."
+                        },
+                        {
+                            "id": "FL-SC-7040B4",
+                            "text": "The fact of trial, whether by court or jury."
+                        },
+                        {
+                            "id": "FL-SC-7040B5",
+                            "text": "The issuance of execution, to whom issued, the date thereof, the return thereon, and when satisfied, a marginal entry of the satisfaction date."
+                        },
+                        {
+                            "id": "FL-SC-7040B6",
+                            "text": "The issuance of a certified copy."
+                        },
+                        {
+                            "id": "FL-SC-7040B7",
+                            "text": "A memorandum of the items of costs including witness fees."
+                        },
+                        {
+                            "id": "FL-SC-7040B8",
+                            "text": "The record of the verdict of the jury or finding of the judge, and the judgment including damages and costs. Judgments may be kept in a separate judgment book and must be searchable by parties’ names with reference to action and case number."
+                        }
+                    ]
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 1972,
+                    "text": "See also rule 7.050(c)."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 2019,
+                    "text": "References to minute book, docket book, and judgment book were consolidated into 'records' in subdivision (b) to better reflect the practice across the state."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7050",
+            "name": "Commencement of Action; Statement of Claim",
+            "authority": "Rule 7.050",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.050 governs how small claims actions are commenced, the required contents of the statement of claim, the duties of the clerk, and procedures for pretrial notices and replevin hearings.",
+            "elements": [
+                {
+                    "id": "FL-SC-7050A",
+                    "name": "Commencement",
+                    "text": "Actions are commenced by filing a statement of claim in concise form, informing the defendant of the basis and amount of the claim.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7050A1",
+                            "name": "Statement of Claim",
+                            "text": "If the claim is based on a written document, a copy or the material part thereof must be attached. All documents served upon the defendant with initial process must be filed with the court."
+                        },
+                        {
+                            "id": "FL-SC-7050A2",
+                            "name": "Party Not Represented by Attorney to Sign",
+                            "text": "A party or business entity without an attorney must sign the statement of claim or other paper and include their address and telephone number, and may include an email address. The court may require a business entity engaged in collecting claims to provide counsel. A business entity may be represented by a principal or authorized employee. A non-attorney may not represent a business entity in appellate proceedings."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7050B",
+                    "name": "Parties",
+                    "text": "The names, addresses, and telephone numbers (if known) of all parties or their attorneys must be stated on the statement of claim. A party not represented by an attorney may include an email address. Attorneys must include their Florida Bar number and email address. Failure to include a telephone number is not grounds for dismissal."
+                },
+                {
+                    "id": "FL-SC-7050C",
+                    "name": "Clerk’s Duties",
+                    "text": "The clerk shall assist in preparing a statement of claim and other papers at the request of any litigant. The clerk is not required to prepare papers on constructive service, substituted service, proceedings supplementary to execution, or discovery procedures."
+                },
+                {
+                    "id": "FL-SC-7050D",
+                    "name": "Summons/Notice to Appear for Pretrial Conference",
+                    "text": "The court shall furnish all parties with notice of the day and hour set for the pretrial conference."
+                },
+                {
+                    "id": "FL-SC-7050E",
+                    "name": "Replevin",
+                    "text": "In replevin cases governed by these rules, the clerk shall set the prejudgment replevin order to show cause hearing required by section 78.065(2)(a), Florida Statutes, and the pretrial conference required by rule 7.090(b) at the same time."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1988,
+                    "text": "Subdivision (a)(2): Clarifies who may appear and represent a corporation in a small claims case. Subdivision (b): First sentence conforms Florida Small Claims Rules with Florida Rules of Judicial Administration 2.060(d) and 2.060(e). Second sentence conforms to proposed amendments to rules of judicial administration. Subdivision (e): Requires that the order to show cause hearing in replevin cases and the pretrial conference be held at the same time to save time and avoid confusion."
+                },
+                {
+                    "year": 2010,
+                    "text": "A sentence is added to subdivision (a)(1) to ensure that the courts have access to all documents served with initial process."
+                },
+                {
+                    "year": 2013,
+                    "text": "Subdivision (b) is amended to clarify that a party must list an opposing party’s telephone number only if known, and that failure to include a telephone number is not grounds for dismissal."
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 1972,
+                    "text": "The statement of claim need not be verified. Subdivision (c) is amended so as to provide that the clerk shall not be required to prepare papers on substituted service."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7060",
+            "name": "Process and Venue",
+            "authority": "Rule 7.060",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.060 governs the summons/notice to appear, the mandatory venue notice, the defendant’s right to request transfer, and service of the statement of claim.",
+            "elements": [
+                {
+                    "id": "FL-SC-7060A",
+                    "name": "Summons/Notice to Appear Required",
+                    "text": "A summons/notice to appear stating the time and place of hearing shall be served on the defendant. The summons/notice to appear must include a separate paragraph in bold type informing the defendant of the right of venue.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7060A1",
+                            "name": "Mandatory Venue Notice Paragraph",
+                            "text": "The summons/notice to appear shall contain the following paragraph in bold type:\n\n\"Right to Venue. The law gives the person or company who has sued you the right to file suit in any one of several places as listed below. However, if you have been sued in any place other than one of these places, you, as the defendant, have the right to request that the case be moved to a proper location or venue. A proper location or venue may be one of the following:\""
+                        },
+                        {
+                            "id": "FL-SC-7060A2",
+                            "name": "Venue Bases",
+                            "text": "A proper venue may be any of the following:",
+                            "subelements": [
+                                {
+                                    "id": "FL-SC-7060A2_1",
+                                    "text": "Where the contract was entered into."
+                                },
+                                {
+                                    "id": "FL-SC-7060A2_2",
+                                    "text": "If the suit is on an unsecured promissory note, where the note is signed or where the maker resides."
+                                },
+                                {
+                                    "id": "FL-SC-7060A2_3",
+                                    "text": "If the suit is to recover property or to foreclose a lien, where the property is located."
+                                },
+                                {
+                                    "id": "FL-SC-7060A2_4",
+                                    "text": "Where the event giving rise to the suit occurred."
+                                },
+                                {
+                                    "id": "FL-SC-7060A2_5",
+                                    "text": "Where any one or more of the defendants sued reside."
+                                },
+                                {
+                                    "id": "FL-SC-7060A2_6",
+                                    "text": "Any location agreed to in a contract."
+                                },
+                                {
+                                    "id": "FL-SC-7060A2_7",
+                                    "text": "In an action for money due, if there is no agreement as to where suit may be filed, where payment is to be made."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "FL-SC-7060A3",
+                            "name": "Defendant’s Procedure to Request Transfer",
+                            "text": "If the defendant believes the plaintiff has not sued in a proper venue, the defendant must appear on the court date and orally request a transfer, or must file a written request for transfer in affidavit form at least 7 days prior to the first court date and send a copy to the plaintiff or plaintiff’s attorney."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7060B",
+                    "name": "Copy of Claim to Be Served",
+                    "text": "A copy of the statement of claim shall be served with the summons/notice to appear."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1988,
+                    "text": "A statement is added to the right-to-venue notice clarifying that proper venue also lies in the county where payment is to be made. This conforms with Florida law. Clarification is made that the notice is now known as the summons/notice to appear."
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 1980,
+                    "text": "If statutory venue (chapter 47, Florida Statutes) is changed by the legislature, the required notice should be updated accordingly."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7070",
+            "name": "Method of Service of Process",
+            "authority": "Rule 7.070",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.070 governs how service of process may be effected in small claims actions, including personal service, certified mail service on Florida residents, time limits for service, and waiver procedures.",
+            "elements": [
+                {
+                    "id": "FL-SC-7070A",
+                    "name": "Generally",
+                    "text": "Service of process is effected as provided by law or by Florida Rules of Civil Procedure 1.070(a)–(h). Constructive or substituted service may be effected as provided by law. Service of process on Florida residents only may also be effected by certified mail, return receipt signed by the defendant or someone authorized to receive mail at the residence or principal place of business. The clerk or an attorney of record may mail the certified mail, and the cost is in addition to the filing fee."
+                },
+                {
+                    "id": "FL-SC-7070B",
+                    "name": "Summons; Time Limit",
+                    "text": "If service of the initial process and initial pleading is not made on a party within 120 days after filing of the initial pleading directed to that party, the court must dismiss the action without prejudice or drop that party. If the movant requests additional time before expiration of the 120 days, an additional 120 days will be provided. If leave is sought to add a party after a pretrial conference under rule 7.090(b)(2), the court may require a showing of good cause and order service within a reasonable time. When a motion for leave to amend with an attached proposed amended statement of claim adding parties is filed, the 120-day period for service begins on entry of the order granting leave to amend. A dismissal does not operate as an adjudication on the merits under rule 7.110."
+                },
+                {
+                    "id": "FL-SC-7070C",
+                    "name": "Waiver of Service of Process",
+                    "text": "Waivers of service of process must be reduced to writing in the record."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1978,
+                    "text": "Present rule provided for certified or registered mail. Certified mail has not been satisfactory since the Postal Service does not deliver to the defendant in all cases."
+                },
+                {
+                    "year": 1984,
+                    "text": "Mail service is allowed on persons authorized to receive mail for the defendant similar to substituted service by the sheriff. Clarifies that service by mail is not available for out-of-state defendants."
+                },
+                {
+                    "year": 1992,
+                    "text": "Most jurisdictions forward summons and complaint for service by certified mail rather than registered mail. Rule changed to conform to custom and other service requirements."
+                },
+                {
+                    "year": 1996,
+                    "text": "Rule modified to exclude Fla. R. Civ. P. 1.070(i) because Small Claims Rule 7.110(e) provides for dismissal for failure to prosecute after 6 months of inactivity."
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 1972,
+                    "text": "Payment of costs of service by certified or registered mail from the filing fee is authorized by section 34.041(1), Florida Statutes; chapter 72-404, Laws of Florida."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7080",
+            "name": "Service and Filing of Pleadings and Documents Other Than Statement of Claim",
+            "authority": "Rule 7.080",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.080 governs service and filing requirements for pleadings and documents other than the statement of claim, including how service must be made, filing procedures, certificates of service, and clerk responsibilities.",
+            "elements": [
+                {
+                    "id": "FL-SC-7080A",
+                    "name": "When Required",
+                    "text": "Copies of all pleadings and papers subsequent to the summons/notice to appear, except applications for witness subpoenas and orders and judgments entered in open court, must be served on each party. A party against whom a default has been entered is entitled to be served only with pleadings asserting new or additional claims."
+                },
+                {
+                    "id": "FL-SC-7080B",
+                    "name": "How Made",
+                    "text": "When a party is represented by an attorney, service of papers other than the statement of claim and summons/notice to appear must be made on the attorney unless the court orders service on the party. Service must comply with Florida Rule of General Practice and Judicial Administration 2.516."
+                },
+                {
+                    "id": "FL-SC-7080C",
+                    "name": "Filing",
+                    "text": "All pleadings and papers must be filed with the court either before service or immediately thereafter."
+                },
+                {
+                    "id": "FL-SC-7080D",
+                    "name": "Filing with the Court Defined",
+                    "text": "Filing is made by filing documents with the clerk, except that the judge may permit filing with the judge. The judge must note the filing date and transmit the documents to the clerk, who shall file them as of the same date. Parties represented by an attorney must file documents in compliance with e-filing requirements under Florida Rule of General Practice and Judicial Administration 2.525. Parties not represented by an attorney may file electronically if permitted by the rules."
+                },
+                {
+                    "id": "FL-SC-7080E",
+                    "name": "Certificate of Service",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7080E1",
+                            "text": "A certificate stating: 'I certify that a copy hereof has been furnished to (name(s) and address(es)) by (delivery) (mail) (email) on (date). Party or party’s attorney' is prima facie proof of service."
+                        },
+                        {
+                            "id": "FL-SC-7080E2",
+                            "text": "When any paper is served by the clerk, a docket entry showing the mode and date of service is sufficient proof without a separate certificate."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7080F",
+                    "name": "When a Party Not Represented by an Attorney Fails to Show Service",
+                    "text": "If a self-represented party files a paper that does not show service on all other parties, the clerk shall serve a copy on all other parties."
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 1972,
+                    "text": "Subdivisions (a), (b), (c), (d), and (e) are substantially the same as Florida Rule of Civil Procedure 1.080(a), (b), (d), (e), and (f)."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7090",
+            "name": "Appearance; Defensive Pleadings; Trial Date",
+            "authority": "Rule 7.090",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.090 governs appearance requirements, pretrial conference procedures, defensive pleadings, trial scheduling, mediation, and stipulations in small claims actions.",
+            "elements": [
+                {
+                    "id": "FL-SC-7090A",
+                    "name": "Appearance",
+                    "text": "On the date and time appointed in the summons/notice to appear, the plaintiff and defendant must appear personally or by counsel. Appearance may be in person or through communication technology under Florida Rule of General Practice and Judicial Administration 2.530."
+                },
+                {
+                    "id": "FL-SC-7090B",
+                    "name": "Summons/Notice to Appear; Pretrial Conference",
+                    "text": "The summons/notice to appear must specify that the initial appearance is for a pretrial conference. The clerk must set the initial pretrial conference not more than 50 days from the filing of the action.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7090B1",
+                            "name": "Non-Service and Cancellation",
+                            "text": "If the summons/notice to appear is non-served and the return of service is filed 5 days before the pretrial conference, the pretrial conference shall be canceled as to any non-served party. The plaintiff may request a new summons/notice to appear with a new initial appearance date."
+                        },
+                        {
+                            "id": "FL-SC-7090B2",
+                            "name": "Management by Nonjudicial Personnel",
+                            "text": "The pretrial conference may be managed by nonjudicial personnel employed by or under contract with the court, subject to direct oversight by the court. A judge must be available to hear motions or resolve legal issues."
+                        },
+                        {
+                            "id": "FL-SC-7090B3",
+                            "name": "Matters Considered at Pretrial Conference",
+                            "text": "The following matters shall be considered:",
+                            "subelements": [
+                                {
+                                    "id": "FL-SC-7090B3_1",
+                                    "text": "The simplification of issues."
+                                },
+                                {
+                                    "id": "FL-SC-7090B3_2",
+                                    "text": "The necessity or desirability of amendments to the pleadings."
+                                },
+                                {
+                                    "id": "FL-SC-7090B3_3",
+                                    "text": "The possibility of obtaining admissions of fact and of documents to avoid unnecessary proof."
+                                },
+                                {
+                                    "id": "FL-SC-7090B3_4",
+                                    "text": "Limitations on the number of witnesses."
+                                },
+                                {
+                                    "id": "FL-SC-7090B3_5",
+                                    "text": "The possibilities of settlement."
+                                },
+                                {
+                                    "id": "FL-SC-7090B3_6",
+                                    "text": "Other matters the court deems necessary."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "FL-SC-7090B4",
+                            "name": "Forms",
+                            "text": "Form 7.322 shall and form 7.323 may be used in conjunction with this rule."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7090C",
+                    "name": "Defensive Pleadings",
+                    "text": "Unless required by court order, written pretrial motions and defensive pleadings are not necessary. If filed, copies must be served on all parties at or before the pretrial conference or within the time designated by the court. Filing such pleadings does not excuse personal appearance at the pretrial conference."
+                },
+                {
+                    "id": "FL-SC-7090D",
+                    "name": "Trial Date",
+                    "text": "The court shall set the case for trial not more than 60 days from the date of the pretrial conference. Notice of at least 10 days must be given. Parties may stipulate to a shorter or longer time with court approval. This rule does not apply to actions governed by chapter 51, Florida Statutes."
+                },
+                {
+                    "id": "FL-SC-7090E",
+                    "name": "Waiver of Appearance at Pretrial Conference",
+                    "text": "Where all parties are represented by an attorney, counsel may agree to waive personal appearance at the initial pretrial conference if a written waiver signed by all attorneys is presented to the court. The agreement must contain a short statement of disputed issues, number of witnesses, estimated trial time, and stipulations of fact. The court shall set the case for trial within the prescribed time."
+                },
+                {
+                    "id": "FL-SC-7090F",
+                    "name": "Appearance at Mediation; Sanctions",
+                    "text": "An attorney may appear on behalf of a party at mediation if the attorney has full authority to settle. A nonlawyer representative may appear if the representative has the party’s signed written authority and full authority to settle. The party need not appear. Mediation may take place at the pretrial conference. Appearance may be in person or through communication technology under rule 2.530. Failure to comply may result in costs and attorney fees."
+                },
+                {
+                    "id": "FL-SC-7090G",
+                    "name": "Agreement",
+                    "text": "Agreements reached through small claims mediation must be written as a stipulation. The stipulation may be entered as an order of the court. Signatures may be original, electronic, or facsimile and may be in counterparts."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1972,
+                    "text": "Rule 7.120 is incorporated in subdivision (c). Expanded to provide for computation from service by mail and allow parties to stipulate to a shorter trial time."
+                },
+                {
+                    "year": 1984,
+                    "text": "Requires use of a pretrial procedure and attendance by both parties. Previously varied by county."
+                },
+                {
+                    "year": 1988,
+                    "text": "(b) Clarifies clerk must set pretrial conference within reasonable time. States matters to be considered at pretrial conference. Directs statewide use of forms 7.322 and 7.323. (c) Clarifies personal appearance required when a defense motion is filed. (e) Adds provision for waiving counsel’s appearance when all parties are represented."
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 2008,
+                    "text": "Full authority to settle at mediation does not equate to a requirement to settle when parties wish to proceed to trial."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7100",
+            "name": "Counterclaims; Setoffs; Third-Party Complaints; Transfer When Jurisdiction Exceeded",
+            "authority": "Rule 7.100",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.100 governs compulsory and permissive counterclaims, setoffs, third-party complaints, and procedures for transferring cases when jurisdiction is exceeded.",
+            "elements": [
+                {
+                    "id": "FL-SC-7100A",
+                    "name": "Compulsory Counterclaim",
+                    "text": "A defendant must file any counterclaim or setoff arising out of the same transaction or occurrence as the plaintiff’s claim not less than 5 days before the initial appearance date (pretrial conference), or within such time as the court designates, or it is abandoned."
+                },
+                {
+                    "id": "FL-SC-7100B",
+                    "name": "Permissive Counterclaim",
+                    "text": "A defendant may file a counterclaim or setoff not arising out of the same transaction or occurrence not less than 5 days before the initial appearance date (pretrial conference) or within such time as the court designates, provided the claim is within the jurisdiction of the court."
+                },
+                {
+                    "id": "FL-SC-7100C",
+                    "name": "How Filed",
+                    "text": "Counterclaims and setoffs must be filed in writing with the clerk and served on the plaintiff or the plaintiff’s attorney. If additional time is needed to prepare a defense, the court may continue the action."
+                },
+                {
+                    "id": "FL-SC-7100D",
+                    "name": "Transfer When Beyond Jurisdiction",
+                    "text": "If a counterclaim or setoff exceeds the jurisdiction of the small claims court, the action must be transferred to the court having jurisdiction.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7100D1",
+                            "text": "The counterclaimant must deposit with the clerk a sum sufficient to pay the filing fee in the court to which the case is transferred."
+                        },
+                        {
+                            "id": "FL-SC-7100D2",
+                            "text": "Failure to make the deposit at filing, or within such further time as the court allows, waives the right to transfer."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7100E",
+                    "name": "Third-Party Complaints",
+                    "text": "A defendant may serve a statement of claim on a nonparty who is or may be liable to the defendant for all or part of the plaintiff’s claim.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7100E1",
+                            "text": "Leave of court must be obtained on motion made at the initial appearance date (pretrial conference)."
+                        },
+                        {
+                            "id": "FL-SC-7100E2",
+                            "text": "The third-party complaint must be filed within the time allowed by the court."
+                        },
+                        {
+                            "id": "FL-SC-7100E3",
+                            "text": "The clerk must schedule a supplemental pretrial conference."
+                        },
+                        {
+                            "id": "FL-SC-7100E4",
+                            "text": "On the date and time appointed, the third-party plaintiff and third-party defendant must appear personally or by counsel, in person or through communication technology under rule 2.530."
+                        },
+                        {
+                            "id": "FL-SC-7100E5",
+                            "text": "If additional time is needed for the third-party defendant to prepare a defense, the court may continue the action."
+                        },
+                        {
+                            "id": "FL-SC-7100E6",
+                            "text": "Any party may move to strike the third-party claim or for severance or separate trial."
+                        },
+                        {
+                            "id": "FL-SC-7100E7",
+                            "text": "When a counterclaim is asserted against the plaintiff, the plaintiff may bring in a third-party defendant under the same circumstances as a defendant."
+                        }
+                    ]
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1988,
+                    "text": "Provides for and authorizes third-party claims so that all issues may be addressed and resolved. Also provides for a title change."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7110",
+            "name": "Dismissal of Actions",
+            "authority": "Rule 7.110",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.110 governs voluntary and involuntary dismissal of actions, dismissal of counterclaims, assessment of costs, and dismissal for failure to prosecute.",
+            "elements": [
+                {
+                    "id": "FL-SC-7110A",
+                    "name": "Voluntary Dismissal; Effect of",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7110A1",
+                            "name": "By Parties",
+                            "text": "Except in actions where property has been seized or is in the custody of the court, an action may be dismissed by the plaintiff without order of court by informing the defendant and clerk before the trial date, or before retirement of the jury, or before submission of a nonjury case; or by filing a stipulation of dismissal signed by all parties who have appeared.",
+                            "subelements": [
+                                {
+                                    "id": "FL-SC-7110A1A",
+                                    "text": "Dismissal is without prejudice unless otherwise stated."
+                                },
+                                {
+                                    "id": "FL-SC-7110A1B",
+                                    "text": "A dismissal operates as an adjudication on the merits when a plaintiff has dismissed an action based on or including the same claim in any court."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "FL-SC-7110A2",
+                            "name": "By Order of the Court",
+                            "text": "Except as provided in this rule, an action must not be dismissed except on order of the court with terms and conditions as the court finds proper. A dismissal under this subdivision is without prejudice unless otherwise specified."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7110B",
+                    "name": "Involuntary Dismissal",
+                    "text": "Any party may move for dismissal of an action or claim for failure of an adverse party to comply with these rules or any court order. After a party seeking affirmative relief has completed presentation of evidence, any other party may move for dismissal on the ground that the party seeking relief has shown no right to relief.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7110B1",
+                            "text": "The court may render judgment against the party seeking affirmative relief or may wait until the close of all evidence."
+                        },
+                        {
+                            "id": "FL-SC-7110B2",
+                            "text": "Unless otherwise specified, a dismissal under this subdivision operates as an adjudication on the merits, except dismissals for lack of jurisdiction, improper venue, or lack of an indispensable party."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7110C",
+                    "name": "Counterclaim",
+                    "text": "If a counterclaim has been filed before the plaintiff voluntarily dismissed the original action, the counterclaim remains pending unless the defendant agrees to its dismissal. This rule applies to dismissal of any counterclaim."
+                },
+                {
+                    "id": "FL-SC-7110D",
+                    "name": "Costs",
+                    "text": "Costs must be assessed and judgment for costs entered in any action dismissed under this rule.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7110D1",
+                            "text": "If a party who has once dismissed a claim commences an action based on the same claim against the same adverse party, the court must order payment of costs of the previously dismissed claim and stay the proceedings until compliance."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7110E",
+                    "name": "Failure to Prosecute",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7110E1",
+                            "text": "If no activity appears on the record for 6 months, the action must be dismissed by the court on its own motion or on motion of any interested person."
+                        },
+                        {
+                            "id": "FL-SC-7110E2",
+                            "text": "Before dismissal for failure to prosecute, 30 days’ notice must be provided to the parties."
+                        },
+                        {
+                            "id": "FL-SC-7110E3",
+                            "name": "Exceptions",
+                            "text": "An action cannot be dismissed for failure to prosecute if:",
+                            "subelements": [
+                                {
+                                    "id": "FL-SC-7110E3A",
+                                    "text": "A stipulation staying the action has been filed."
+                                },
+                                {
+                                    "id": "FL-SC-7110E3B",
+                                    "text": "A stay order has been filed."
+                                },
+                                {
+                                    "id": "FL-SC-7110E3C",
+                                    "text": "A party shows good cause in writing at least 5 days before the hearing why the action should remain pending."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1978,
+                    "text": "Former subdivision (e) provided for 1 year rather than 6 months."
+                },
+                {
+                    "year": 1984,
+                    "text": "Subdivision (e) changed to allow more time for an attorney to inquire about the status of a claim, especially where stipulations to pay may take longer than 10 days."
+                },
+                {
+                    "year": 1996,
+                    "text": "Subdivision (e) amended to be consistent with Fla. R. Civ. P. 1.420(e), including conditions involving stipulations or stay orders."
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 1972,
+                    "text": "Substantially the same as Florida Rule of Civil Procedure 1.420."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7130",
+            "name": "Continuances and Settlements",
+            "authority": "Rule 7.130",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.130 governs continuances and settlements in small claims actions, including requirements for good cause, clerk notification, and entry of judgment upon failure to comply with settlement terms.",
+            "elements": [
+                {
+                    "id": "FL-SC-7130A",
+                    "name": "Continuances",
+                    "text": "A continuance may be granted only upon good cause shown. The motion may be oral unless the court requires a written motion. The action shall be reset for trial as soon as practicable, and timely notice shall be given to the parties."
+                },
+                {
+                    "id": "FL-SC-7130B",
+                    "name": "Settlements",
+                    "text": "Settlements in full or by installment payments made out of the presence of the court are encouraged. The plaintiff must notify the clerk of settlement, and the case may be dismissed or continued pending payments.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7130B1",
+                            "text": "If a party fails to perform the terms of any stipulation or agreement for settlement before judgment, the court may enter appropriate judgment without notice upon the creditor’s filing of an affidavit of the amount due."
+                        }
+                    ]
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1984,
+                    "text": "Subdivision (b) is altered to conform with rule 7.210(c), which provides for an affidavit but no notice."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7135",
+            "name": "Summary Disposition",
+            "authority": "Rule 7.135",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.135 authorizes the court to summarily enter an appropriate order or judgment when no triable issue exists.",
+            "elements": [
+                {
+                    "id": "FL-SC-7135A",
+                    "name": "Summary Disposition",
+                    "text": "At the pretrial conference or at any subsequent hearing, if there is no triable issue, the court shall summarily enter an appropriate order or judgment."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7140",
+            "name": "Trial",
+            "authority": "Rule 7.140",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.140 governs trial procedures in small claims actions, including scheduling, issue determination, settlement efforts, assistance to unrepresented parties, and the conduct of trial including testimony by communication technology.",
+            "elements": [
+                {
+                    "id": "FL-SC-7140A",
+                    "name": "Time",
+                    "text": "The trial date shall be set by the court at the pretrial conference."
+                },
+                {
+                    "id": "FL-SC-7140B",
+                    "name": "Determination",
+                    "text": "Issues shall be settled and motions determined summarily."
+                },
+                {
+                    "id": "FL-SC-7140C",
+                    "name": "Pretrial",
+                    "text": "The pretrial conference should narrow contested factual issues. The case may proceed to trial with the consent of both parties."
+                },
+                {
+                    "id": "FL-SC-7140D",
+                    "name": "Settlement",
+                    "text": "At any time before judgment, the judge shall make an effort to assist the parties in settling the controversy by conciliation or compromise."
+                },
+                {
+                    "id": "FL-SC-7140E",
+                    "name": "Unrepresented Parties",
+                    "text": "To further the proceedings and secure substantial justice, the court shall assist any party not represented by an attorney on courtroom decorum, order of presentation of material evidence, and handling private information.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7140E1",
+                            "text": "The court may not instruct any unrepresented party on accepted rules of law."
+                        },
+                        {
+                            "id": "FL-SC-7140E2",
+                            "text": "The court shall not act as an advocate for any party."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7140F",
+                    "name": "How Conducted",
+                    "text": "The trial may be conducted informally but with decorum befitting a court of justice. The rules of evidence applicable to civil actions apply but are to be liberally construed.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7140F1",
+                            "text": "Communication technology may be used for testimony or other participation under rule 2.530."
+                        },
+                        {
+                            "id": "FL-SC-7140F2",
+                            "text": "Any witness testifying by communication technology must be treated as a live witness and may not receive relaxation of evidentiary rules or special allowances."
+                        },
+                        {
+                            "id": "FL-SC-7140F3",
+                            "text": "A witness may not testify using communication technology to avoid the application of Florida’s perjury laws or the rules of evidence."
+                        }
+                    ]
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1984,
+                    "text": "(a) Changed to conform this rule with the requirement for pretrials. (c) Allows cases to proceed to trial with consent of the parties. (f) Similar to proposed amendments allowing depositions by telephone; procedural safeguards can be maintained and unreliable testimony rejected."
+                },
+                {
+                    "year": 1988,
+                    "text": "Extends taking of testimony over the telephone to include parties, deletes agreement-of-the-parties requirement, and authorizes attorneys to represent parties or witnesses over the telephone without being physically present."
+                },
+                {
+                    "year": 1996,
+                    "text": "Revised subdivision (e) expressly provides that the judge may assist an unrepresented party but must not act as an advocate."
+                },
+                {
+                    "year": 2011,
+                    "text": "Subdivision (e)(3) added to allow a judge to assist an unrepresented party in handling private information that might otherwise inadvertently become public."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7150",
+            "name": "Jury Trials",
+            "authority": "Rule 7.150",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.150 governs the availability of jury trials in small claims actions, including written demand requirements, waiver, and participation of jurors through audio-video communication technology.",
+            "elements": [
+                {
+                    "id": "FL-SC-7150A",
+                    "name": "Written Demand",
+                    "text": "Jury trials may be had upon written demand of the plaintiff at the commencement of the suit, or by the defendant within 10 days after service of the summons/notice to appear or at the pretrial conference. Otherwise, the jury trial is deemed waived."
+                },
+                {
+                    "id": "FL-SC-7150B",
+                    "name": "Juror Participation Through Audio-Video Communication Technology",
+                    "text": "Prospective jurors may participate in voir dire, and empaneled jurors may participate in the jury trial, through audio-video communication technology under rule 2.530(c), if stipulated by the parties in writing and authorized by the court.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7150B1",
+                            "text": "The written stipulation and a written motion requesting authorization must be filed within 10 days after service of a written demand under subdivision (a), or within such other period as directed by the court."
+                        }
+                    ]
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1984,
+                    "text": "The cost deposit formerly required was intended to discourage frivolous jury demands. The committee concluded that cost taxation should not differ between small and larger claims."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7160",
+            "name": "Failure of Plaintiff or Both Parties to Appear",
+            "authority": "Rule 7.160",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.160 governs the consequences when the plaintiff fails to appear or when both parties fail to appear at the initial appearance (pretrial conference) or at trial.",
+            "elements": [
+                {
+                    "id": "FL-SC-7160A",
+                    "name": "Plaintiff Fails to Appear",
+                    "text": "If the plaintiff fails to appear on the initial appearance date (pretrial conference) or at trial, the action may be dismissed for want of prosecution, the defendant may proceed to trial on the merits, or the action may be continued as the judge directs, subject to rule 7.090(b)."
+                },
+                {
+                    "id": "FL-SC-7160B",
+                    "name": "Both Parties Fail to Appear",
+                    "text": "If both parties fail to appear on the initial appearance date (pretrial conference), the judge may continue the action or dismiss it for want of prosecution at that time or later as justice requires, subject to rule 7.090(b)."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7170",
+            "name": "Default; Judgment",
+            "authority": "Rule 7.170",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.170 governs entry of default when the defendant fails to appear and the procedures for entering final judgment, including evidentiary requirements and venue inquiry.",
+            "elements": [
+                {
+                    "id": "FL-SC-7170A",
+                    "name": "Default",
+                    "text": "If the defendant does not appear at the scheduled time, the plaintiff is entitled to a default to be entered by either the judge or the clerk."
+                },
+                {
+                    "id": "FL-SC-7170B",
+                    "name": "Final Judgment",
+                    "text": "After default is entered, the judge shall receive evidence establishing the damages and enter judgment in accordance with the evidence and the law. The judge may inquire into and prevent abuses of venue prior to entering judgment."
+                }
+            ],
+            "court_commentary": [
+                {
+                    "year": 1972,
+                    "text": "Evidence may be by testimony, affidavit, or other competent means."
+                },
+                {
+                    "year": 1980,
+                    "text": "The judge is permitted to ensure by any means deemed appropriate that venue is not being abused."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7175",
+            "name": "Costs and Attorneys’ Fees",
+            "authority": "Rule 7.175",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.175 governs motions seeking taxation of costs and attorneys’ fees following judgment or dismissal, including deadlines and exceptions for default judgments.",
+            "elements": [
+                {
+                    "id": "FL-SC-7175A",
+                    "name": "Motion for Costs or Attorneys’ Fees",
+                    "text": "Any party seeking a judgment taxing costs or attorneys’ fees, or both, must serve a motion no later than 30 days after filing of the judgment, including a judgment of dismissal, or service of a notice of voluntary dismissal."
+                },
+                {
+                    "id": "FL-SC-7175B",
+                    "name": "Default Judgment Exception",
+                    "text": "In the event of a default judgment, no further motions are needed if costs or attorneys’ fees, or both, were sought in the statement of claim."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7180",
+            "name": "Motions for New Trial; Time For; Contents",
+            "authority": "Rule 7.180",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.180 governs motions for new trial, including deadlines, required contents, court determination, and specification of grounds.",
+            "elements": [
+                {
+                    "id": "FL-SC-7180A",
+                    "name": "Time",
+                    "text": "A motion for new trial must be filed not later than 15 days after return of verdict in a jury action or the date of filing of the judgment in a nonjury action. A timely motion may be amended to state new grounds at any time before it is disposed of, in the discretion of the court."
+                },
+                {
+                    "id": "FL-SC-7180B",
+                    "name": "Determination",
+                    "text": "The motion must set forth the basis with particularity. Upon examination, the court may find the motion without merit and deny it summarily, or may grant a hearing with notice."
+                },
+                {
+                    "id": "FL-SC-7180C",
+                    "name": "Grounds",
+                    "text": "All orders granting a new trial must specify the specific grounds for the ruling.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7180C1",
+                            "text": "If an order granting a new trial is appealed and does not state the specific grounds, the appellate court shall relinquish jurisdiction to the trial court for entry of an order specifying the grounds."
+                        }
+                    ]
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1972,
+                    "text": "Subdivisions (a) and (c) are substantially the same as Florida Rule of Civil Procedure 1.530(b) and (f)."
+                },
+                {
+                    "year": 1984,
+                    "text": "This change conforms with the proposed amendment to Florida Rule of Civil Procedure 1.530."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7190",
+            "name": "Relief from Judgment or Order; Clerical Mistakes",
+            "authority": "Rule 7.190",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.190 governs correction of clerical mistakes and relief from judgments or orders based on mistake, excusable neglect, newly discovered evidence, fraud, void judgments, and satisfaction.",
+            "elements": [
+                {
+                    "id": "FL-SC-7190A",
+                    "name": "Clerical Mistakes",
+                    "text": "Clerical mistakes in judgments, orders, or other parts of the record, and errors arising from oversight or omission, may be corrected by the court at any time on its own initiative or on motion of any party, after such notice as the court orders.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7190A1",
+                            "text": "During the pendency of an appeal, such mistakes may be corrected before the record on appeal is docketed in the appellate court."
+                        },
+                        {
+                            "id": "FL-SC-7190A2",
+                            "text": "After docketing, clerical mistakes may be corrected only with leave of the appellate court."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7190B",
+                    "name": "Mistakes; Inadvertence; Excusable Neglect; Newly Discovered Evidence; Fraud; etc.",
+                    "text": "On motion and on such terms as are just, the court may relieve a party or a party’s legal representative from a final judgment, order, or proceeding for the following reasons:",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7190B1",
+                            "text": "Mistake, inadvertence, surprise, or excusable neglect."
+                        },
+                        {
+                            "id": "FL-SC-7190B2",
+                            "text": "Newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial or rehearing."
+                        },
+                        {
+                            "id": "FL-SC-7190B3",
+                            "text": "Fraud (intrinsic or extrinsic), misrepresentation, or other misconduct of an adverse party."
+                        },
+                        {
+                            "id": "FL-SC-7190B4",
+                            "text": "The judgment is void."
+                        },
+                        {
+                            "id": "FL-SC-7190B5",
+                            "text": "The judgment has been satisfied, released, or discharged; or a prior judgment on which it is based has been reversed or vacated; or it is no longer equitable that the judgment should have prospective application."
+                        },
+                        {
+                            "id": "FL-SC-7190B6",
+                            "name": "Time Limits",
+                            "text": "The motion must be made within a reasonable time, and for reasons under subdivisions (b)(1), (b)(2), and (b)(3), not more than 1 year after entry of the judgment, order, or proceeding."
+                        },
+                        {
+                            "id": "FL-SC-7190B7",
+                            "name": "Effect on Judgment Finality",
+                            "text": "A motion under this subdivision does not affect the finality of a judgment or suspend its operation."
+                        }
+                    ]
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7200",
+            "name": "Executions",
+            "authority": "Rule 7.200",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.200 governs issuance of executions on judgments, including timing, oral requests, and interaction with motions for new trial.",
+            "elements": [
+                {
+                    "id": "FL-SC-7200A",
+                    "name": "Oral Request",
+                    "text": "Executions on judgments shall issue during the life of the judgment on the oral request of the party entitled to it or that party’s attorney without a formal written demand."
+                },
+                {
+                    "id": "FL-SC-7200B",
+                    "name": "Timing Restrictions",
+                    "text": "No execution or other final process shall issue until the judgment on which it is based has been rendered or within the time for serving a motion for new trial."
+                },
+                {
+                    "id": "FL-SC-7200C",
+                    "name": "Effect of Motion for New Trial",
+                    "text": "If a motion for new trial is timely served, execution or other final process shall not issue until the motion is determined."
+                },
+                {
+                    "id": "FL-SC-7200D",
+                    "name": "Court Authorization",
+                    "text": "The court may order issuance of execution or other final process at any time after judgment."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7210",
+            "name": "Stay of Judgment and Execution",
+            "authority": "Rule 7.210",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.210 governs judicial authority to stay judgment, execution, or levy, including stipulations for installment payments and automatic execution upon default.",
+            "elements": [
+                {
+                    "id": "FL-SC-7210A",
+                    "name": "Judgment or Execution or Levy Stayed",
+                    "text": "When judgment is to be entered against a party, the judge may inquire into the earnings and financial status of the party and may stay entry of judgment, or if entered, stay execution or levy on such terms as are just. The stay may be conditioned on a stipulation by the judgment debtor to make payments ensuring periodic reduction of the judgment until satisfied."
+                },
+                {
+                    "id": "FL-SC-7210B",
+                    "name": "Stipulation",
+                    "text": "The judge shall note the terms of any stipulation in the file. The stipulation may be set out in the judgment or incorporated by reference to 'the stipulation made in open court.'"
+                },
+                {
+                    "id": "FL-SC-7210C",
+                    "name": "Execution",
+                    "text": "When judgment is entered and execution is stayed pending payments, if the judgment debtor fails to pay the installment payments, the judgment creditor may obtain execution without further notice upon filing an affidavit of the amount due."
+                },
+                {
+                    "id": "FL-SC-7210D",
+                    "name": "Oral Stipulations",
+                    "text": "Oral stipulations may be made in the presence of the court providing that upon failure of the judgment debtor to comply with any agreement, judgment may be entered or execution issued, or both, without further notice."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1988,
+                    "text": "Adds the staying of levy as an alternative when arranging payment. Provides lien rights priority protection for judgment creditors."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7220",
+            "name": "Supplementary Proceedings",
+            "authority": "Rule 7.220",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.220 provides that proceedings supplementary to execution may be conducted in accordance with proceedings provided by law or by the Florida Rules of Civil Procedure.",
+            "elements": [
+                {
+                    "id": "FL-SC-7220A",
+                    "name": "Supplementary Proceedings",
+                    "text": "Proceedings supplementary to execution may be had in accordance with proceedings provided by law or by the Florida Rules of Civil Procedure."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7221",
+            "name": "Hearing in Aid of Execution",
+            "authority": "Rule 7.221",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.221 governs postjudgment enforcement procedures, including mandatory use of Form 7.343, hearings in aid of execution, and court-assisted discovery for certain judgment creditors.",
+            "elements": [
+                {
+                    "id": "FL-SC-7221A",
+                    "name": "Use of Form 7.343",
+                    "text": "In any final judgment, the judge shall include the Enforcement Paragraph of form 7.340 if requested by the prevailing party or attorney. In addition to discovery available under Florida Rule of Civil Procedure 1.560, the judge shall order the judgment debtor to complete and serve form 7.343 within 45 days of the order or within such reasonable time as the court determines.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7221A1",
+                            "text": "The completed form must be served pursuant to Florida Rule of General Practice and Judicial Administration 2.516."
+                        },
+                        {
+                            "id": "FL-SC-7221A2",
+                            "text": "If the judgment debtor fails to obey the order, Florida Rule of Civil Procedure Form 1.982 may be used in conjunction with this subdivision."
+                        }
+                    ]
+                },
+                {
+                    "id": "FL-SC-7221B",
+                    "name": "Purpose of Hearing",
+                    "text": "At the request of the judgment creditor, the judge shall order the judgment debtor to appear at a hearing in aid of execution at a time certain 45 or more days from the date of entry of judgment.",
+                    "subelements": [
+                        {
+                            "id": "FL-SC-7221B1",
+                            "text": "The purpose of the hearing is to inquire under oath into the judgment debtor’s earnings, financial status, and any assets available in excess of exemptions to satisfy the judgment."
+                        },
+                        {
+                            "id": "FL-SC-7221B2",
+                            "text": "This subdivision applies only to a judgment creditor who is a natural person and who was not represented by an attorney prior to judgment."
+                        },
+                        {
+                            "id": "FL-SC-7221B3",
+                            "text": "Forms 7.342, 7.343, and 7.344 shall be used in connection with this subdivision."
+                        }
+                    ]
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1988,
+                    "text": "Provides a procedure for postjudgment, court-assisted discovery for natural person judgment creditors unrepresented by counsel prior to judgment."
+                },
+                {
+                    "year": 1996,
+                    "text": "Form 7.343 (Fact Information Sheet) is made available for use by both a party and the party’s attorney, even though the hearing in aid of execution is not available to attorneys. The court may include the order in the final judgment or issue it afterward, and may adjust the time allowed for response."
+                }
+            ],
+            "exceptions": []
+        },
+        {
+            "id": "FL-SC-7230",
+            "name": "Appellate Review",
+            "authority": "Rule 7.230",
+            "jurisdiction": "FL-SC",
+            "text": "Rule 7.230 governs appellate review of orders and judgments in small claims actions and prohibits non-attorney representation of business entities in appellate proceedings.",
+            "elements": [
+                {
+                    "id": "FL-SC-7230A",
+                    "name": "Review",
+                    "text": "Review of orders and judgments of courts governed by these rules shall be prosecuted in accordance with the Florida Rules of Appellate Procedure."
+                },
+                {
+                    "id": "FL-SC-7230B",
+                    "name": "Party Not Represented by an Attorney",
+                    "text": "A non-attorney may not represent a business entity in appellate proceedings."
+                }
+            ],
+            "committee_notes": [
+                {
+                    "year": 1972,
+                    "text": "Attention is directed to Florida Appellate Rule 4.7, which authorizes the circuit court to modify or dispense with any of the steps to be taken after filing of the notice of appeal."
+                }
+            ],
+            "exceptions": []
+        }
+    ]
+}

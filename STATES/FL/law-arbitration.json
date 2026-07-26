@@ -1,0 +1,229 @@
+{
+    "metadata": {
+        "rulebook_version": "2025.01",
+        "jurisdiction": "Florida",
+        "title": "Revised Florida Arbitration Code",
+        "chapter": "Fla. Stat. ch. 682",
+        "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0682/0682.html"
+    },
+    "name": "Florida Arbitration Code",
+    "rules": [
+        {
+            "id": "FLA682.01",
+            "name": "Short title",
+            "authority": "Fla. Stat. § 682.01",
+            "jurisdiction": "Florida",
+            "text": "This chapter may be cited as the “Revised Florida Arbitration Code.”"
+        },
+        {
+            "id": "FLA682.011",
+            "name": "Definitions",
+            "authority": "Fla. Stat. § 682.011",
+            "jurisdiction": "Florida",
+            "text": "Defines “arbitration organization”, “arbitrator”, “court”, “knowledge”, “person”, and “record” for purposes of this chapter."
+        },
+        {
+            "id": "FLA682.012",
+            "name": "Notice",
+            "authority": "Fla. Stat. § 682.012",
+            "jurisdiction": "Florida",
+            "text": "Sets out how a person gives, has, and receives notice in connection with arbitration under this chapter."
+        },
+        {
+            "id": "FLA682.013",
+            "name": "Applicability of revised code",
+            "authority": "Fla. Stat. § 682.013",
+            "jurisdiction": "Florida",
+            "text": "Governs temporal applicability of the Revised Florida Arbitration Code to agreements made before and after July 1, 2013, and from July 1, 2016 forward."
+        },
+        {
+            "id": "FLA682.014",
+            "name": "Effect of agreement to arbitrate; nonwaivable provisions",
+            "authority": "Fla. Stat. § 682.014",
+            "jurisdiction": "Florida",
+            "text": "Specifies which chapter requirements parties may waive or vary and identifies nonwaivable provisions, including jurisdiction, confirmation, vacatur, modification, and exclusions for certain disputes."
+        },
+        {
+            "id": "FLA682.015",
+            "name": "Petition for judicial relief",
+            "authority": "Fla. Stat. § 682.015",
+            "jurisdiction": "Florida",
+            "text": "Provides that petitions for judicial relief under this chapter are made and heard as motions, and prescribes service of notice for initial petitions."
+        },
+        {
+            "id": "FLA682.02",
+            "name": "Arbitration agreements made valid, irrevocable, and enforceable; scope",
+            "authority": "Fla. Stat. § 682.02",
+            "jurisdiction": "Florida",
+            "text": "Declares agreements to submit controversies to arbitration valid, enforceable, and irrevocable, allocates questions of existence and scope between court and arbitrator, and extends the section to certain interlocal agreements."
+        },
+        {
+            "id": "FLA682.03",
+            "name": "Proceedings to compel and to stay arbitration",
+            "authority": "Fla. Stat. § 682.03",
+            "jurisdiction": "Florida",
+            "text": "Sets procedures for motions to compel or stay arbitration, summary determination of enforceability, and mandatory stays of related judicial proceedings."
+        },
+        {
+            "id": "FLA682.031",
+            "name": "Provisional remedies",
+            "authority": "Fla. Stat. § 682.031",
+            "jurisdiction": "Florida",
+            "text": "Authorizes courts and arbitrators to grant provisional remedies, including interim awards, and governs confirmation or vacatur of provisional injunctive or equitable relief."
+        },
+        {
+            "id": "FLA682.032",
+            "name": "Initiation of arbitration",
+            "authority": "Fla. Stat. § 682.032",
+            "jurisdiction": "Florida",
+            "text": "Describes how an arbitration proceeding is initiated by notice in a record, required contents of the notice, and waiver of objections to notice."
+        },
+        {
+            "id": "FLA682.033",
+            "name": "Consolidation of separate arbitration proceedings",
+            "authority": "Fla. Stat. § 682.033",
+            "jurisdiction": "Florida",
+            "text": "Allows court-ordered consolidation of separate arbitrations when claims arise from related transactions and share common issues, subject to contractual prohibitions."
+        },
+        {
+            "id": "FLA682.04",
+            "name": "Appointment of arbitrators by court",
+            "authority": "Fla. Stat. § 682.04",
+            "jurisdiction": "Florida",
+            "text": "Requires following agreed methods of appointment and authorizes court appointment when methods fail or parties do not respond; bars certain interested individuals from serving as neutral arbitrators."
+        },
+        {
+            "id": "FLA682.041",
+            "name": "Disclosure by arbitrator",
+            "authority": "Fla. Stat. § 682.041",
+            "jurisdiction": "Florida",
+            "text": "Imposes pre‑appointment and continuing disclosure duties on arbitrators regarding interests and relationships, and ties nondisclosure or objection procedures to vacatur standards."
+        },
+        {
+            "id": "FLA682.05",
+            "name": "Majority action by arbitrators",
+            "authority": "Fla. Stat. § 682.05",
+            "jurisdiction": "Florida",
+            "text": "Provides that arbitrator powers are exercised by a majority, while all arbitrators must conduct the hearing."
+        },
+        {
+            "id": "FLA682.051",
+            "name": "Immunity of arbitrator; competency to testify; attorney fees and costs",
+            "authority": "Fla. Stat. § 682.051",
+            "jurisdiction": "Florida",
+            "text": "Grants judicial‑type immunity to arbitrators and arbitration organizations, limits their competency to testify, and mandates fee‑shifting when immune persons are sued or compelled contrary to the statute."
+        },
+        {
+            "id": "FLA682.06",
+            "name": "Hearing",
+            "authority": "Fla. Stat. § 682.06",
+            "jurisdiction": "Florida",
+            "text": "Authorizes arbitrators to manage proceedings, including conferences, evidence rulings, summary disposition, hearing scheduling, adjournments, and replacement of arbitrators."
+        },
+        {
+            "id": "FLA682.07",
+            "name": "Representation by attorney",
+            "authority": "Fla. Stat. § 682.07",
+            "jurisdiction": "Florida",
+            "text": "Confers a right to be represented by an attorney at any arbitration proceeding or hearing under this law."
+        },
+        {
+            "id": "FLA682.08",
+            "name": "Witnesses, subpoenas, depositions",
+            "authority": "Fla. Stat. § 682.08",
+            "jurisdiction": "Florida",
+            "text": "Empowers arbitrators to issue subpoenas, permit depositions and discovery, issue protective orders, and provides for court enforcement and witness fees."
+        },
+        {
+            "id": "FLA682.081",
+            "name": "Judicial enforcement of preaward ruling by arbitrator",
+            "authority": "Fla. Stat. § 682.081",
+            "jurisdiction": "Florida",
+            "text": "Allows expedited confirmation of preaward rulings incorporated into awards and sets standards for confirming or vacating provisional injunctive or equitable relief."
+        },
+        {
+            "id": "FLA682.09",
+            "name": "Award",
+            "authority": "Fla. Stat. § 682.09",
+            "jurisdiction": "Florida",
+            "text": "Requires a signed or authenticated record of the award, notice to parties, and timeliness consistent with the agreement or court order."
+        },
+        {
+            "id": "FLA682.10",
+            "name": "Change of award by arbitrators",
+            "authority": "Fla. Stat. § 682.10",
+            "jurisdiction": "Florida",
+            "text": "Permits arbitrators to modify or correct awards on specified grounds within set time limits and allows courts to remand for such modification or clarification."
+        },
+        {
+            "id": "FLA682.11",
+            "name": "Remedies; fees and expenses of arbitration proceeding",
+            "authority": "Fla. Stat. § 682.11",
+            "jurisdiction": "Florida",
+            "text": "Authorizes punitive or exemplary damages, attorney fees, and other remedies when permitted by law or agreement, and allows arbitrators to order just and appropriate remedies."
+        },
+        {
+            "id": "FLA682.12",
+            "name": "Confirmation of an Award",
+            "authority": "Fla. Stat. § 682.12",
+            "jurisdiction": "Florida",
+            "text": "After receiving notice of an arbitration award, a party may move the court to confirm it. The court must issue a confirming order unless the award is modified or corrected under § 682.10 or § 682.14, or vacated under § 682.13."
+        },
+        {
+            "id": "FLA682.13",
+            "name": "Vacating an Award",
+            "authority": "Fla. Stat. § 682.13",
+            "jurisdiction": "Florida",
+            "text": "The court must vacate an arbitration award upon motion if it was procured by corruption, fraud, or undue means; if there was evident partiality, corruption, or misconduct by a neutral arbitrator; if the arbitrator improperly refused postponement or material evidence; if the arbitrator exceeded powers; if no valid agreement to arbitrate existed (unless waived); or if the arbitration was conducted without proper notice causing substantial prejudice. Motions must be filed within 90 days of notice of the award or discovery of fraud. The court may order rehearing except when no agreement existed. If vacatur is denied and no modification motion is pending, the court must confirm the award."
+        },
+        {
+            "id": "FLA682.14",
+            "name": "Modification or Correction of Award",
+            "authority": "Fla. Stat. § 682.14",
+            "jurisdiction": "Florida",
+            "text": "The court must modify or correct an award upon timely motion if there is an evident miscalculation or descriptive mistake; if the arbitrators ruled on matters not submitted and correction does not affect the merits; or if the award is imperfect in form. If granted, the court confirms the corrected award; otherwise, it confirms the original unless a vacatur motion is pending. Motions may be joined with motions to vacate."
+        },
+        {
+            "id": "FLA682.15",
+            "name": "Judgment or Decree on Award",
+            "authority": "Fla. Stat. § 682.15",
+            "jurisdiction": "Florida",
+            "text": "When confirming, vacating without rehearing, modifying, or correcting an award, the court enters judgment accordingly. The judgment may be recorded and enforced like any civil judgment. The court may award costs and, upon motion of a prevailing party in contested proceedings under §§ 682.12–682.14, may award attorney fees and litigation expenses."
+        },
+        {
+            "id": "FLA682.181",
+            "name": "Jurisdiction",
+            "authority": "Fla. Stat. § 682.181",
+            "jurisdiction": "Florida",
+            "text": "A Florida court with jurisdiction over the controversy and parties may enforce an arbitration agreement. An agreement providing for arbitration in Florida grants exclusive jurisdiction to Florida courts to enter judgment on the award."
+        },
+        {
+            "id": "FLA682.19",
+            "name": "Venue",
+            "authority": "Fla. Stat. § 682.19",
+            "jurisdiction": "Florida",
+            "text": "A petition under § 682.015 must be filed in the county where the arbitration hearing is to be held or was held. If unspecified, filing may occur in any county where an adverse party resides or has a business, or if none are in Florida, any county. All subsequent petitions must be filed in the same court unless directed otherwise."
+        },
+        {
+            "id": "FLA682.20",
+            "name": "Appeals",
+            "authority": "Fla. Stat. § 682.20",
+            "jurisdiction": "Florida",
+            "text": "Appeals may be taken from orders denying motions to compel arbitration; granting motions to stay arbitration; confirming awards; denying confirmation unless modified or vacated; modifying or correcting awards; vacating awards without rehearing; and judgments entered under the chapter. Appeals follow the same procedures as civil actions."
+        },
+        {
+            "id": "FLA682.23",
+            "name": "Electronic Signatures Compliance",
+            "authority": "Fla. Stat. § 682.23",
+            "jurisdiction": "Florida",
+            "text": "The chapter’s provisions regarding electronic records, signatures, and contracts conform to the requirements of 15 U.S.C. § 7002 (Electronic Signatures in Global and National Commerce Act)."
+        },
+        {
+            "id": "FLA682.25",
+            "name": "Disputes Excluded",
+            "authority": "Fla. Stat. § 682.25",
+            "jurisdiction": "Florida",
+            "text": "The Revised Florida Arbitration Code does not apply to disputes involving child custody, visitation, or child support."
+        }
+    ]
+}
