@@ -1,0 +1,106 @@
+{
+    "name": "FAA Intake",
+    "version": "2026.03",
+    "description": "Standardized intake structure for FAA-governed arbitration filings.",
+    "fields": {
+        "case_number": {
+            "type": "string",
+            "required": true,
+            "example": "CASE-2026-001"
+        },
+        "parties": {
+            "type": "object",
+            "required": true,
+            "properties": {
+                "claimants": {
+                    "type": "array",
+                    "required": true,
+                    "items": {
+                        "type": "string"
+                    },
+                    "min_items": 1
+                },
+                "respondents": {
+                    "type": "array",
+                    "required": true,
+                    "items": {
+                        "type": "string"
+                    },
+                    "min_items": 1
+                }
+            }
+        },
+        "jurisdiction": {
+            "type": "array",
+            "required": true,
+            "allowed_values": [
+                "FAA",
+                "FL"
+            ],
+            "example": [
+                "FAA"
+            ]
+        },
+        "agreement": {
+            "type": "object",
+            "required": true,
+            "properties": {
+                "exists": {
+                    "type": "boolean",
+                    "required": true
+                },
+                "description": {
+                    "type": "string"
+                },
+                "date_signed": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "exhibit_id": {
+                    "type": "string"
+                }
+            }
+        },
+        "facts": {
+            "type": "array",
+            "required": true,
+            "items": {
+                "id": "string",
+                "source": "string",
+                "text": "string"
+            }
+        },
+        "issues": {
+            "type": "array",
+            "required": false,
+            "items": {
+                "id": "string",
+                "question": "string",
+                "positions": {
+                    "claimant": "string",
+                    "respondent": "string"
+                }
+            }
+        },
+        "requested_relief": {
+            "type": "array",
+            "items": {
+                "description": "string",
+                "type": "string",
+                "allowed_values": [
+                    "monetary",
+                    "non_monetary"
+                ]
+            }
+        },
+        "rulebook": {
+            "type": "array",
+            "required": true,
+            "items": "string",
+            "example": [
+                "FAA/subpoena.json",
+                "FAA/faa.json"
+            ]
+        }
+    }
+}
